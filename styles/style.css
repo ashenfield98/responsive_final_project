@@ -35,7 +35,6 @@ p {
 
 img {
   max-width: 100%;
-  height: auto;
 }
 
 nav {
@@ -213,7 +212,7 @@ footer .social-links a:hover {
 
   .content-container {
     text-align: center;
-    padding: 0;
+    padding: 20px;
   }
   .project-description {
     text-align: center;
